@@ -1,0 +1,26 @@
+{
+  "events":[
+    {
+      id:59,
+      category: 'animal welfare',
+      title: 'Cat doption Day',
+      description:'Find your new feline',
+      location: 'Meow Town',
+      date:'January 28, 2023',
+      time: '12:00',
+      petsAllowed:true,
+      organizer:'Kat Laydee'
+    },
+    {
+      id:60,
+      category: 'beach cleaning',
+      title: 'Beach fun',
+      description:'Keep sand, not garbage',
+      location: 'Wave Town',
+      date:'July 18, 2023',
+      time: '11:00',
+      petsAllowed:true,
+      organizer:'Tan Laydee'
+    }
+  ]
+}

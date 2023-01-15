@@ -9,7 +9,7 @@
       "date":"January 28, 2023",
       "time":"12:00",
       "petsAllowed":true,
-      "organizer":"Kat Laydee"
+      "organizer":"Kat Laydee",
     },
     {
       "id":60,
@@ -20,7 +20,7 @@
       "date":"July 28, 2023",
       "time":"11:00",
       "petsAllowed":true,
-      "organizer":"Tan Laydee"
+      "organizer":"Tan Laydee",
     }
   ]
 }
